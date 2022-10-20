@@ -1,0 +1,11 @@
+
+For in loop
+
+The for...in statement iterates over the properties of an object. To demonstrate, we will make a simple shark object with a few name:value pairs.
+
+
+
+For of Loop
+
+
+The for...in statement is useful for iterating over object properties, but to iterate over iterable objects like arrays and strings, we can use the for...of statement. The for...of statement is a newer feature as of ECMAScript 6. ECMAScript (or ES) is a scripting-language specification created to standardize JavaScript
